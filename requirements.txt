@@ -1,0 +1,3 @@
+aspose-cells==23.2.0
+JPype1==1.4.1
+packaging==23.0
